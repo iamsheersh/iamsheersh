@@ -1,22 +1,93 @@
-<h1 align="center">Hi 👋, I'm Sheersh</h1>
-<h3 align="center">A passionate IT Enthusiast from India</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsheersh&label=Profile%20views&color=0e75b6&style=flat" alt="iamsheersh" /> </p>
+<div align="center">
+<picture>
+  <img align="center" alt="Sheersh" src="./images/About-Me-Dark.svg" style="width: 780px; height: 360px;">
+</picture>
+</div>
+<br>
 
-- 📫 How to reach me **official.sheersh@gmail.com**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1000&pause=100&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Sheersh;Full-Stack+Developer;AI%2FML+Enthusiast" alt="Typing SVG" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sheersh101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sheersh101" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/itsme_sheersh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itsme_sheersh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sheersh_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sheersh_01" height="30" width="40" /></a>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=eccentriccoder01&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-indigo?style=for-the-badge" alt="Status" />
+</div> 
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Arsenal
+
+<div align="center">
+
+<table>
+<tr>
+<td width="800px">
+  
+### Frontend Technologies
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="49" height="49" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="Frontend Skills" />
+</div>
+
+### Backend & Database
+<p>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="49" height="49" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="49" height="49" />
+<img src="https://skillicons.dev/icons?i=express,mongodb,mysql,firebase" alt="Backend Skills" />
+</div>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,tensorflow" alt="Tools" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsheersh&show_icons=true&locale=en&layout=compact" alt="iamsheersh" /></p>
+</td>
+</tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsheersh&show_icons=true&locale=en" alt="iamsheersh" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsheersh&" alt="iamsheersh" /></p>
+---
+
+## <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35"> GitHub Analytics
+
+<div align="center">
+
+![github-stats](https://stats.hyo.dev/api/github-stats?login=eccentriccoder01)
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eccentriccoder01&theme=github_dark"/>
+
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="700"></p>
+
+<table>
+<tr>
+<td width="50%">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eccentriccoder01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
+</td>
+<td width="50%">
+  <img src="https://streak-stats.demolab.com/?user=eccentriccoder01&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect with Sheersh
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eccentricexplorer)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://eccentriccoder01.github.io/Me)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> "Code is poetry written in logic"
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20-%20Sheersh&fontSize=20&fontColor=fff&animation=twinkling"/>
+  
+</div>
