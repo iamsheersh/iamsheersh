@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eccentriccoder01&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iamsheersh&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-indigo?style=for-the-badge" alt="Status" />
 </div> 
 
@@ -52,19 +52,19 @@
 
 <div align="center">
 
-![github-stats](https://stats.hyo.dev/api/github-stats?login=eccentriccoder01)
+![github-stats](https://stats.hyo.dev/api/github-stats?login=iamsheersh)
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eccentriccoder01&theme=github_dark"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsheersh&theme=github_dark"/>
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="700"></p>
 
 <table>
 <tr>
 <td width="50%">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eccentriccoder01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamsheersh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
 </td>
 <td width="50%">
-  <img src="https://streak-stats.demolab.com/?user=eccentriccoder01&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=iamsheersh&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
@@ -78,7 +78,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eccentricexplorer)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://eccentriccoder01.github.io/Me)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://iamsheersh.github.io/Me)
 
 </div>
 
